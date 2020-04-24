@@ -42,7 +42,7 @@ body {
 <body>
 
 <div class="topnav">
-  <a class="active" href="">Home</a>
+  <a class="active" href="home">Home</a>
   <a href="new">Register new User</a>
   <a href="list">Display Users</a>
 </div>
