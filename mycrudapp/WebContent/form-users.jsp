@@ -91,7 +91,7 @@ div.container {
 <body>
 
 <div class="topnav">
-  <a href="">Home</a>
+  <a href="home">Home</a>
   <a class="active" href="new">Register new User</a>
   <a href="list">Display Users</a>
 </div>
